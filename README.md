@@ -1,5 +1,5 @@
 ### Hi there 👋
-TESTING
+- I am Sathwika Deegutla.
 <!--
 **sd0623/sd0623** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
